@@ -1,8 +1,12 @@
-# 晚会写，笔者比较懒
-# 图片有点问题，晚会修复
+# 
+# 图片，目录快捷链接有点问题，晚会修复
 # PyTorch简要教程
-可以称作教程也可以称作笔记，现在这么多轮子为什么还要自己写？纸上学来终觉浅，绝知此事要躬行，自己亲手写一遍代码，并把自己的思路理一下还是极好的。
-本教程根据官方以及收集的第三方教程为基础，在使用其他教程时，会附上链接。其学习内容具体安排如下
+可以称作教程也可以称作笔记，现在这么多轮子为什么还要自己写？纸上学来终觉浅，绝知此事要躬行，自己亲手写一遍代码，并把自己的思路理一下还是极好的。本教程根据官方以及收集的第三方教程为基础，在使用其他教程时，会附上链接。其学习内容有：
+
+1. 图片分类
+2. 目标检测
+3. GAN
+4. NLP相关
 
  - [01基本操作](https://github.com/Qzgfather/Pytorch_Tutorials/blob/master/01%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.ipynb)
  - [02多层感知机模型](https://github.com/Qzgfather/Pytorch_Tutorials/blob/master/02%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E6%9C%BA%E6%A8%A1%E5%9E%8B.ipynb)
@@ -18,10 +22,10 @@ https://github.com/Qzgfather/Pytorch_Tutorials/blob/master/05-2%E6%A8%A1%E5%9E%8
  - [10目标检测、实例分割](https://github.com/Qzgfather/Pytorch_Tutorials/blob/master/10%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E3%80%81%E5%AE%9E%E4%BE%8B%E5%88%86%E5%89%B2%E5%88%9D%E8%AF%86.ipynb)
  - [11初识循环神经网络](https://github.com/Qzgfather/Pytorch_Tutorials/blob/master/11%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb
 )
- 
+
  由于教程难度不是很大，当读者在遇到问题时，百度一下即可解决大部分问题，如果确实有不理解指出，可以提一下issue，本人看到会尽快回复。
- 
+
  ## 联系方式
  QQ：1218776991
- 
+
  Mail:qizhiguo.z@gmail.com
